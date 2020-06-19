@@ -1,5 +1,7 @@
 #!/user/bin/python3
 
 // different comment
-
-print("Hello world")
+def main (msg):
+	print(msg)
+	
+main("hello people")
